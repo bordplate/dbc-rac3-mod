@@ -1,0 +1,6 @@
+#- name: Death by Capitalism
+#- author: bordplate
+#- version: 1.0
+#- description: Capitalism just as designed.
+
+automation: main.lua
